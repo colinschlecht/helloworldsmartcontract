@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@alch/alchemy-web3": "^1.0.3",
     "dotenv": "^9.0.2",
     "hardhat": "^2.3.0"
   },
